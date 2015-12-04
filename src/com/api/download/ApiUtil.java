@@ -1,4 +1,4 @@
-package com.simon.api; 
+package com.api.download; 
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
@@ -18,10 +18,10 @@ public class ApiUtil {
 	//http://hadoop.apache.org/docs/r2.7.1/api/index.html
 	//https://storm.apache.org/javadoc/apidocs/index.html
 
-    private String ENTERURL = "http://hadoop.apache.org/docs/r2.7.1/api/index.html";
-    private String ENTERFILEPATH = "D:\\package\\API\\Hadoop_2_7_API";
+    private String ENTERURL = "http://api.mongodb.org/java/3.2/";
+    private String ENTERFILEPATH = "D:\\package\\API\\mongodb_3_2_API";
     private HttpURLConnection conn;
-    private String BASEURL = "hadoop.apache.org";
+    private String BASEURL = "api.mongodb.org";
     private URL httpurl;
     private Map downedurl = new HashMap();
     private Map folder = new HashMap();

@@ -1,4 +1,4 @@
-package com.simon.time;
+package com.time.util;
 
 public class TimeUtil {
 	/**
