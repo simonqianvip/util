@@ -1,0 +1,65 @@
+2015-12-04 14:04:59 [ main:0 ] - [ INFO ] test ……
+INFO - test ……
+INFO - test ……
+INFO - test ……
+2015-12-04 14:37:31 [ main:0 ] - [ INFO ] test ……
+2015-12-04 14:49:20 [ main:0 ] - [ INFO ] test ……
+2015-12-04 14:49:32 [ main:0 ] - [ INFO ] test ……
+2015-12-04 14:49:55 [ main:0 ] - [ INFO ] test ……
+2015-12-04 14:50:02 [ main:0 ] - [ INFO ] test ……
+2015-12-04 16:32:50 [ main:0 ] - [ DEBUG ] 开始读取系统配置文件[{data.properties}]
+2015-12-04 16:32:50 [ main:7 ] - [ DEBUG ] FileName set to data.properties
+2015-12-04 16:32:50 [ main:8 ] - [ DEBUG ] ConfigurationUtils.locate(): base is null, name is data.properties
+2015-12-04 16:32:50 [ main:8 ] - [ DEBUG ] Could not locate file data.properties at null: no protocol: data.properties
+2015-12-04 16:32:50 [ main:11 ] - [ DEBUG ] Loading configuration from the context classpath (data.properties)
+2015-12-04 16:32:50 [ main:11 ] - [ DEBUG ] Base path set to file:///C:/Users/simon/Workspaces/MyEclipse%20Professional%202014/util_project/bin/data.properties
+2015-12-04 16:32:50 [ main:28 ] - [ DEBUG ] 配置文件信息：[key = {name} , value = {zhangsan} ]
+2015-12-04 16:32:50 [ main:29 ] - [ DEBUG ] 配置文件信息：[key = {age} , value = {18} ]
+2015-12-04 16:32:50 [ main:29 ] - [ INFO ] 【{data.properties}】配置文件完毕，SystemConfig总共加载了 {2} 个配置信息
+2015-12-04 16:32:50 [ main:30 ] - [ INFO ] 所有配置文件完毕，systemConfiguration总共加载了 {2} 个配置信息
+2015-12-04 16:32:59 [ main:0 ] - [ WARN ] 没有配置文件，无法读取
+2015-12-04 16:33:40 [ main:0 ] - [ WARN ] 没有配置文件，无法读取
+2015-12-04 16:34:11 [ main:0 ] - [ DEBUG ] 开始读取系统配置文件[{data.properties}]
+2015-12-04 16:34:11 [ main:7 ] - [ DEBUG ] FileName set to data.properties
+2015-12-04 16:34:11 [ main:8 ] - [ DEBUG ] ConfigurationUtils.locate(): base is null, name is data.properties
+2015-12-04 16:34:11 [ main:8 ] - [ DEBUG ] Could not locate file data.properties at null: no protocol: data.properties
+2015-12-04 16:34:11 [ main:12 ] - [ DEBUG ] Loading configuration from the context classpath (data.properties)
+2015-12-04 16:34:11 [ main:12 ] - [ DEBUG ] Base path set to file:///C:/Users/simon/Workspaces/MyEclipse%20Professional%202014/util_project/bin/data.properties
+2015-12-04 16:34:11 [ main:29 ] - [ DEBUG ] 配置文件信息：[key = {name} , value = {zhangsan} ]
+2015-12-04 16:34:11 [ main:30 ] - [ DEBUG ] 配置文件信息：[key = {age} , value = {18} ]
+2015-12-04 16:34:11 [ main:30 ] - [ INFO ] 【{data.properties}】配置文件完毕，SystemConfig总共加载了 {2} 个配置信息
+2015-12-04 16:34:11 [ main:31 ] - [ INFO ] 所有配置文件完毕，systemConfiguration总共加载了 {2} 个配置信息
+2015-12-04 16:36:08 [ main:0 ] - [ DEBUG ] 开始读取系统配置文件[{data.properties}]
+2015-12-04 16:36:08 [ main:7 ] - [ DEBUG ] FileName set to data.properties
+2015-12-04 16:36:08 [ main:8 ] - [ DEBUG ] ConfigurationUtils.locate(): base is null, name is data.properties
+2015-12-04 16:36:08 [ main:8 ] - [ DEBUG ] Could not locate file data.properties at null: no protocol: data.properties
+2015-12-04 16:36:08 [ main:11 ] - [ DEBUG ] Loading configuration from the context classpath (data.properties)
+2015-12-04 16:36:08 [ main:11 ] - [ DEBUG ] Base path set to file:///C:/Users/simon/Workspaces/MyEclipse%20Professional%202014/util_project/bin/data.properties
+2015-12-04 16:36:08 [ main:28 ] - [ INFO ] 配置文件信息：[key = {name} , value = {zhangsan} ]
+2015-12-04 16:36:08 [ main:30 ] - [ INFO ] 配置文件信息：[key = {age} , value = {18} ]
+2015-12-04 16:36:08 [ main:30 ] - [ INFO ] 【{data.properties}】配置文件完毕，SystemConfig总共加载了 {2} 个配置信息
+2015-12-04 16:36:08 [ main:30 ] - [ INFO ] 所有配置文件完毕，systemConfiguration总共加载了 {2} 个配置信息
+2015-12-04 16:48:32 [ main:0 ] - [ DEBUG ] 开始读取系统配置文件[{data.properties}]
+2015-12-04 16:48:32 [ main:7 ] - [ DEBUG ] FileName set to data.properties
+2015-12-04 16:48:32 [ main:8 ] - [ DEBUG ] ConfigurationUtils.locate(): base is null, name is data.properties
+2015-12-04 16:48:32 [ main:8 ] - [ DEBUG ] Could not locate file data.properties at null: no protocol: data.properties
+2015-12-04 16:48:32 [ main:11 ] - [ DEBUG ] Loading configuration from the context classpath (data.properties)
+2015-12-04 16:48:32 [ main:11 ] - [ DEBUG ] Base path set to file:///C:/Users/simon/Workspaces/MyEclipse%20Professional%202014/util_project/bin/data.properties
+2015-12-04 16:48:32 [ main:28 ] - [ INFO ] 配置文件信息：[key = {name} , value = {zhangsan} ]
+2015-12-04 16:48:32 [ main:29 ] - [ INFO ] 配置文件信息：[key = {age} , value = {18} ]
+2015-12-04 16:48:32 [ main:29 ] - [ INFO ] 【{data.properties}】配置文件完毕，SystemConfig总共加载了 {2} 个配置信息
+2015-12-04 16:48:32 [ main:29 ] - [ INFO ] 所有配置文件完毕，systemConfiguration总共加载了 {2} 个配置信息
+2015-12-04 16:48:43 [ main:0 ] - [ DEBUG ] 开始读取系统配置文件[{data.properties}]
+2015-12-04 16:48:43 [ main:7 ] - [ DEBUG ] FileName set to data.properties
+2015-12-04 16:48:43 [ main:8 ] - [ DEBUG ] ConfigurationUtils.locate(): base is null, name is data.properties
+2015-12-04 16:48:43 [ main:8 ] - [ DEBUG ] Could not locate file data.properties at null: no protocol: data.properties
+2015-12-04 16:48:44 [ main:11 ] - [ DEBUG ] Loading configuration from the context classpath (data.properties)
+2015-12-04 16:48:44 [ main:11 ] - [ DEBUG ] Base path set to file:///C:/Users/simon/Workspaces/MyEclipse%20Professional%202014/util_project/bin/data.properties
+2015-12-04 16:48:44 [ main:28 ] - [ INFO ] 配置文件信息：[key = {name} , value = {zhangsan} ]
+2015-12-04 16:48:44 [ main:29 ] - [ INFO ] 配置文件信息：[key = {age} , value = {18} ]
+2015-12-04 16:48:44 [ main:30 ] - [ INFO ] 【{data.properties}】配置文件完毕，SystemConfig总共加载了 {2} 个配置信息
+2015-12-04 16:48:44 [ main:30 ] - [ INFO ] 所有配置文件完毕，systemConfiguration总共加载了 {2} 个配置信息
+2015-12-04 16:50:09 [ main:0 ] - [ INFO ] 所有配置文件完毕，systemConfiguration总共加载了 {0} 个配置信息
+2015-12-04 16:50:09 [ main:2 ] - [ INFO ] 所有配置文件完毕，systemConfiguration总共加载了 {0} 个配置信息
+2015-12-04 16:50:50 [ main:0 ] - [ WARN ] 没有配置文件，无法读取
+2015-12-04 17:24:09 [ main:0 ] - [ INFO ] 加载 data.properties 成功！！！
