@@ -63,3 +63,5 @@ INFO - test ……
 2015-12-04 16:50:09 [ main:2 ] - [ INFO ] 所有配置文件完毕，systemConfiguration总共加载了 {0} 个配置信息
 2015-12-04 16:50:50 [ main:0 ] - [ WARN ] 没有配置文件，无法读取
 2015-12-04 17:24:09 [ main:0 ] - [ INFO ] 加载 data.properties 成功！！！
+2015-12-05 10:06:26 [ main:0 ] - [ INFO ] 【创建jedis连接池】
+2015-12-05 10:06:27 [ main:1216 ] - [ INFO ] 【获取jedis实例】
