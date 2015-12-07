@@ -51,10 +51,10 @@ public class RedisUtil {
 		return "";
 	}
 	/**
-	 * 根据键查找对应的map
+	 * 根据键查找对value
 	 * @param key
 	 */
-	private static void showMap(String key) {
+	private static void showMap(final String key) {
 		Map<String, String> map = jedis.hgetAll(key);
 		for (Entry<String, String> entry : map.entrySet()) {
 			log.info("{" + entry.getKey() + " = "
